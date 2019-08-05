@@ -1,0 +1,4 @@
+url:
+    users: "https://reqres.in/api/users?"
+    create_user: "https://reqres.in/api/users"
+

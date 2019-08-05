@@ -1,0 +1,12 @@
+source 'http://rubygems.org'
+
+gem 'cucumber'
+gem 'rspec'
+gem 'pry'
+gem 'httparty'
+gem 'json'
+gem 'pry-nav'
+gem 'rspec-expectations'
+gem 'faker'
+gem 'ffaker'
+gem 'colorize'

@@ -1,0 +1,25 @@
+########### Access ##########
+url:                      "https://www.phptravels.net/"
+dropbox_my_account:       "#li_myaccount"
+button_login_sing_in:     ".go-text-right"
+########### Resgister ##########
+field_form:               ".form-control"
+button_register_sing_in:  ".signupbtn.btn_full.btn.btn-action.btn-block.btn-lg"
+field_login_password:     ".form-control.padding-10"
+button_login:             ".btn.btn-action.btn-lg.btn-block.loginbtn"
+########### Car ##########
+button_car:               ".text-center"             
+field_car_list:           ".select2-result-label"
+button_search:            ".btn-primary.btn.btn-lg.btn-block.pfb0.loader"
+div_car:                  ".wow.fadeIn.p-10-0.animated"
+title_car:                ".RTL.go-text-right.mt0.list_title"
+button_details:           ".btn.btn-action.loader.loader.btn-block.br25"
+button_rent_car:          ".btn.btn-block.btn-action.btn-lg"
+button_aditional_service: ".switch-light.switch-ios"
+button_confirm_rent:      ".btn.btn-success.btn-lg.btn-block.completebook"
+field_logo:               ".navbar-brand.go-right"
+field_car_name:           ".dark.go-right"
+drobox_account:           ".dropdown-toggle.go-text-right"
+
+
+

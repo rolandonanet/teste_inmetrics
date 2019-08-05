@@ -1,0 +1,9 @@
+source 'http://rubygems.org'
+
+gem 'cucumber'              
+gem 'capybara'            
+gem 'pry'                  
+gem 'ffaker'               
+gem 'colorize'       
+gem 'pry-nav'                            
+gem 'selenium-webdriver'  
